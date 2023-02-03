@@ -1,4 +1,4 @@
-#!/home/junesung/lab4/venv/bin/python
+#!/home/junesung/lab4/mysite/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
